@@ -48,7 +48,6 @@ Music Player ini adalah aplikasi berbasis Python dengan antarmuka grafis menggun
 ## 🐞 Kontribusi & Perbaikan Bug
 Jika Anda menemukan bug atau ingin meningkatkan fungsionalitas aplikasi, berikut adalah beberapa area yang dapat diperbaiki:
 
-- **Handling Error Saat Load Lagu:** Saat pengguna memilih folder tanpa MP3, tambahkan validasi agar aplikasi tidak crash.
 - **Optimasi Seek Bar:** Implementasi saat seek masih bisa diperbaiki agar lebih akurat.
 - **Peningkatan Rotasi Vinyl:** Saat lagu di-pause, terkadang animasi masih berjalan. Bisa diperbaiki dengan mekanisme yang lebih ketat.
 - **Tambah Dukungan Format Lain:** Saat ini hanya mendukung MP3, bisa diperluas untuk mendukung format lain seperti WAV atau FLAC.
