@@ -31,8 +31,17 @@ Music Player ini adalah aplikasi berbasis Python dengan antarmuka grafis menggun
    ```
 3. Jalankan program dengan perintah:
    ```bash
-   python Music_Player.py
+   python music_player.py
    ```
+
+---
+
+## 🎶 Cara Menambahkan Lagu ke Music Player
+1. Buka aplikasi Music Player setelah dijalankan.
+2. Klik tombol **Pilih Folder** di dalam aplikasi.
+3. Pilih folder yang berisi file MP3 yang ingin Anda putar.
+4. Setelah memilih folder, daftar lagu akan dimuat secara otomatis.
+5. Gunakan tombol **Play/Pause**, **Next**, atau **Previous** untuk mengontrol pemutaran musik.
 
 ---
 
